@@ -1,0 +1,6 @@
+PlayerKey,GameID,PlayKey_y,FieldType,PlayType,PlayerDay,PlayerGame,Position,PositionGroup,RosterPosition,Off_Def,StadiumType,StadiumCategory,Temperature,Weather,Weather_Category,Field_Condition,Temperature_Bin,Field_Temperature_Bin,PlayType_FieldCondition,DaysRest,WorkloadIncrease,WorkloadStress,PreInjuryWorkload,WorkloadDensity,Season,GameNumberInSeason,WorkloadDensity_SeasonAdjusted
+46067,13,34,Synthetic,Pass,99,13,WR,WR,Wide Receiver,Offence,Indoors,Indoor,67,,,,Temp_Mild,Synthetic_Temp_Mild,Pass_None,7.0,-1.0,-0.1428571428571428,121,8.066666666666666,1,13,52.43333333333333
+35611,11,63,Natural,Pass,99,11,FS,DB,Safety,Defence,Outdoors,Outdoor,42,Mostly Cloudy,damp,Natural_damp,Temp_Cold,Natural_Temp_Cold,Pass_Natural_damp,7.0,-5.0,-0.7142857142857142,167,5.758620689655173,1,11,31.67241379310345
+44449,30,70,Natural,Rush,463,30,WR,WR,Wide Receiver,Offence,Outdoors,Outdoor,48,Clear Skies,dry,Natural_dry,Temp_Cold,Natural_Temp_Cold,Rush_Natural_dry,8.0,12.0,1.5,162,9.0,2,14,63.0
+43489,26,70,Natural,Pass,442,26,SS,DB,Safety,Defence,Outdoor,Outdoor,56,Mostly Sunny,dry,Natural_dry,Temp_Mild,Natural_Temp_Mild,Pass_Natural_dry,7.0,-1.0,-0.1428571428571428,226,10.272727272727272,2,11,56.5
+42588,27,61,Synthetic,Pass,439,27,T,OL,Offensive Lineman,Offence,Indoors,Indoor,68,,,,Temp_Mild,Synthetic_Temp_Mild,Pass_None,4.0,-1.00,-4.0,198,13.2,2,11,72.6
